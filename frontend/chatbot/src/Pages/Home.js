@@ -21,8 +21,8 @@ function ExplanationForm() {
 
   const containerStyle = {
     fontFamily: 'Segoe UI, sans-serif',
-    backgroundColor: '#0B1D3A',
-    color: '#FFFFFF',
+    backgroundColor: '#fff',
+    color: '#000',
     minHeight: '100vh',
     padding: '40px 20px',
   };
